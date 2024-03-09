@@ -1,5 +1,10 @@
 # 💫 About Me:
-I 'M Frontend Web Developer<br>i 'M currently learning Data Science<br>Ask me About JavaScript<br>
+- 🔭 I’m currently working on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Animated Websites**
+- 🌱 I’m currently learning **Data Science**
+- 💬 Ask me about **React**
+- 📫 How to reach me **Abhishekgajananraut@gmail.com**
+- ⚡ Fun fact **I am Working on Project and learning tech stack used in That**
 
 
 ## 🌐 Socials:
