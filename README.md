@@ -1,5 +1,5 @@
 # 💫 About Me:
-I 'M Frontend Web Development<br>i 'M currently learning Data Science<br>Ask me About JavaScript<br>
+I 'M Frontend Web Developer<br>i 'M currently learning Data Science<br>Ask me About JavaScript<br>
 
 
 ## 🌐 Socials:
