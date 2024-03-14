@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Full Stack Project**
 - 👯 I’m looking to collaborate on **Animated Websites**
 - 🌱 I’m currently learning **Data Science**
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **GSAP**
 - 📫 How to reach me **Abhishekgajananraut@gmail.com**
 - ⚡ Fun fact **I am Working on Project and learning tech stack used in That**
 
