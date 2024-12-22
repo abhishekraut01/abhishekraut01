@@ -38,7 +38,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>Three.js</td>
   </tr>
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
@@ -63,9 +63,9 @@
 
 <table align="right">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>Java</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>Kotlin</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>Python</td>
   </tr>
 
   <tr>
@@ -81,7 +81,7 @@
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo" ><br><sub><sup>Android Studio</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
   </tr>
