@@ -38,7 +38,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>Three.js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>nestjs</td>
   </tr>
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
@@ -63,9 +63,9 @@
 
 <table align="right">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>Java</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>Kotlin</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>Python</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>docker</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>postman</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>kubernetes</td>
   </tr>
 
   <tr>
