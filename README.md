@@ -81,7 +81,7 @@
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo" ><br><sub><sup>Android Studio</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo" ><br><sub><sup>redis</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
   </tr>
