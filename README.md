@@ -30,67 +30,72 @@
  
 <table align="left">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=express" alt="express logo" ><br><sub><sup>Express</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React</td>
-  </tr>
-  
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>nestjs</td>
-  </tr>
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
-    <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
-  </tr>
-  
-
-  <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=html" alt="html5 logo" ><br><sub><sup>HTML5</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=css" alt="css3 logo" ><br><sub><sup>CSS3</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=js" alt="javascript logo" ><br><sub><sup>JavaScript</td>
   </tr>
+      
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td> 
+  </tr>
+  
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo"><br><sub><sup>Redis </td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>nestjs</td>
+  </tr>
+      
+  <tr>
+      <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=express" alt="express logo" ><br><sub><sup>Express</td>
+     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
+  </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
-
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postgres" alt="postgres logo" ><br><sub><sup>postgres</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" ><br><sub><sup>prisma</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>postman</td>
   </tr>
 </table>
 
 <table align="right">
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>docker</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>postman</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>kubernetes</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>Docker</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>Kubernetes</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=aws" alt="aws logo" ><br><sub><sup>AWS</sub></sup></td>
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" ><br><sub><sup>Firebase</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=gitlab" alt="gitlab logo" ><br><sub><sup>GitLab</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" ><br><sub><sup>Jenkins</sub></sup></td>
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=terraform" alt="terraform logo" ><br><sub><sup>Terraform</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ansible" alt="ansible logo" ><br><sub><sup>Ansible</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo" ><br><sub><sup>Redis</sub></sup></td>
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo" ><br><sub><sup>redis</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
-    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=linux" alt="linux logo" ><br><sub><sup>Linux</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=bash" alt="bash logo" ><br><sub><sup>Bash</sub></sup></td>
   </tr>
 
-  <tr>
-    <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
-  </tr>
+<tr>
+  <td align="center">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker-compose logo"><br><sub><sup>Docker Compose</sub></sup>
+  </td>
+  <td align="center">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo"><br><sub><sup>Nginx</sub></sup>
+  </td>
+  <td align="center">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq logo"><br><sub><sup>RabbitMQ</sub></sup>
+  </td>
+</tr>
 </table>
 
 
