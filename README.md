@@ -43,22 +43,23 @@
   
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=redis" alt="redis logo"><br><sub><sup>Redis </td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="three logo" ><br><sub><sup>nestjs</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=npm" alt="npm logo"><br><sub><sup>npm</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nestjs" alt="nestjs logo" ><br><sub><sup>NestJS</td>
   </tr>
       
   <tr>
-      <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node.js</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=express" alt="express logo" ><br><sub><sup>Express</td>
-     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postgres" alt="postgres logo" ><br><sub><sup>postgres</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" ><br><sub><sup>prisma</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>postman</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postgres" alt="postgres logo" ><br><sub><sup>PostgreSQL</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=prisma" alt="prisma logo" ><br><sub><sup>Prisma</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=postman" alt="postman logo" ><br><sub><sup>Postman</td>
   </tr>
 </table>
+
 
 <table align="right">
   <tr>
@@ -85,18 +86,19 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=bash" alt="bash logo" ><br><sub><sup>Bash</sub></sup></td>
   </tr>
 
-<tr>
-  <td align="center">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker-compose logo"><br><sub><sup>Docker Compose</sub></sup>
-  </td>
-  <td align="center">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo"><br><sub><sup>Nginx</sub></sup>
-  </td>
-  <td align="center">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq logo"><br><sub><sup>RabbitMQ</sub></sup>
-  </td>
-</tr>
+  <tr>
+    <td align="center">
+      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker-compose logo"><br><sub><sup>Docker Compose</sub></sup>
+    </td>
+    <td align="center">
+      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo"><br><sub><sup>Nginx</sub></sup>
+    </td>
+    <td align="center">
+      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq logo"><br><sub><sup>RabbitMQ</sub></sup>
+    </td>
+  </tr>
 </table>
+
 
 
 <div align="center">  
