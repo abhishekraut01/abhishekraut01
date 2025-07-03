@@ -83,7 +83,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</sub></sup></td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=linux" alt="linux logo" ><br><sub><sup>Linux</sub></sup></td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=bash" alt="bash logo" ><br><sub><sup>Bash</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=graphql" alt="graphql logo" ><br><sub><sup>graphql</sub></sup></td>
   </tr>
 
   <tr>
@@ -93,9 +93,7 @@
     <td align="center">
       <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo"><br><sub><sup>Nginx</sub></sup>
     </td>
-    <td align="center">
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq logo"><br><sub><sup>RabbitMQ</sub></sup>
-    </td>
+          <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kafka" alt="kafka logo" ><br><sub><sup>kafka</sub></sup></td>
   </tr>
 </table>
 
