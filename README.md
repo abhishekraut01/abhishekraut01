@@ -71,7 +71,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</sub></sup></td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=gitlab" alt="gitlab logo" ><br><sub><sup>GitLab</sub></sup></td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=jenkins" alt="jenkins logo" ><br><sub><sup>Jenkins</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=githubactions" alt="githubactions logo" ><br><sub><sup>githubactions</sub></sup></td>
   </tr>
 
   <tr>
