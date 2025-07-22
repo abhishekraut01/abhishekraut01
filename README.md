@@ -64,7 +64,7 @@
 <table align="right">
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>Docker</sub></sup></td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes logo" ><br><sub><sup>Kubernetes</sub></sup></td>
+    <td align="center"><img height='30' src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" alt="kubernetes logo" ><br><sub><sup>Kubernetes</sub></sup></td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=aws" alt="aws logo" ><br><sub><sup>AWS</sub></sup></td>
   </tr>
 
