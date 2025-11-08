@@ -1,4 +1,4 @@
-  <img
+<img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
     width="100%" />
 
@@ -25,6 +25,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhishekraut01&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
 
 </div>
+
+<br clear="both">
+
+## 💻 Tech Stack
 
 <div align="center"> 
  
@@ -93,11 +97,9 @@
     <td align="center">
       <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx logo"><br><sub><sup>Nginx</sub></sup>
     </td>
-          <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kafka" alt="kafka logo" ><br><sub><sup>kafka</sub></sup></td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kafka" alt="kafka logo" ><br><sub><sup>kafka</sub></sup></td>
   </tr>
 </table>
-
-
 
 <div align="center">  
 <br>
@@ -106,10 +108,68 @@
 
 </div>
 
+<br clear="both">
+
+---
+
+<div align="center">
+
+## 📚 My Learning Hub
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🎯 Comprehensive Study Notes & Resources
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏗️ **Architecture & Design**
+[![System Design](https://img.shields.io/badge/System_Design-5A67D8?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/System-Design-288d288d4171800fa408de1fb988089e?source=copy_link)
+[![OOPS](https://img.shields.io/badge/Object_Oriented_Programming-FF6B6B?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/OPPS-283d288d41718032ad6be578e4edf13a?source=copy_link)
+
+#### 💾 **Databases & Storage**
+[![Databases](https://img.shields.io/badge/Databases-13AA52?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Databases-28dd288d41718057bd4dda8bf95b4a78?source=copy_link)
+
+#### 🧪 **Testing & Quality**
+[![Testing](https://img.shields.io/badge/Testing_in_MERN-E535AB?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Testing-in-MERN-Stack-29bd288d417180609e1fdabe8f646718?source=copy_link)
+
+#### 📊 **Data Structures & Algorithms**
+[![DSA](https://img.shields.io/badge/DSA-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)](https://excalidraw.com/#json=VBzpbiORUbx8aE8--Z5Cc,AlkVSh-8Y0myRr7IigW31g)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 **Frontend Development**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Study-JavaScript-209d288d4171817aa4efef8fd90dec3a?source=copy_link)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/TypeScript-283d288d417180a7a6ccc28ab2ad8908?source=copy_link)
+[![React](https://img.shields.io/badge/React_&_NextJS-61DAFB?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Study-React-and-NextJs-214d288d417180eda08ae4f9f67c6618?source=copy_link)
+
+#### ⚙️ **Backend Development**
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Study-Nodejs-209d288d417180db8ac3daa87db38c13?source=copy_link)
+
+#### 🚀 **DevOps & Cloud**
+[![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/DevOps-21fd288d4171805e86f2d66c2d644696?source=copy_link)
+
+#### 🤖 **AI & Machine Learning**
+[![Gen-AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Gen-Ai-26dd288d417180979849fe92119e3ea7?source=copy_link)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+> *"Learning never exhausts the mind." - Leonardo da Vinci*
+
+</div>
+
+---
+
 <div align="center">
   
 <br clear="both">
-  <h1></h1>
+  <h2>🌐 Connect With Me</h2>
 <br clear="both">
 
 [![youtube logo](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@sweabhishek)
@@ -118,6 +178,7 @@
 [![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sweabhishek/)
 [![telegram logo](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/abhishekrautok)
 [![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/sweabhishek)
+
 <img alt="github-snake"
   src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
   
