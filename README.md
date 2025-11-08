@@ -1,32 +1,79 @@
-<img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="100%" />
-
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-  Hello, tech enthusiast here! I'm all about coding, Teaching and innovation. Let's dive into the digital realm together! 🚀
-</h2>
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Abhishekraut01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekraut01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150" alt="languages graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<br clear="both">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;SDE-2+Level+Engineer;Building+Scalable+Systems+%F0%9F%9A%80;Teaching+%7C+Coding+%7C+Innovating" alt="Typing SVG" />
+</h1>
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/Abhishekraut01?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Abhishekraut01?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Abhishekraut01?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Abhishekraut01">  <img align="right" src="https://komarev.com/ghpvc/?username=Abhishekraut01"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+  <b>Passionate about architecting distributed systems and writing clean, maintainable code</b>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+System+Design+%7C+Microservices+%7C+Cloud+Architecture;%F0%9F%93%9A+Mentor+%26+Educator+%7C+Sharing+Knowledge;%F0%9F%94%A5+Building+Production-Grade+Applications;%E2%9A%A1+Optimizing+for+Performance+%26+Scalability" alt="Typing SVG" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/Abhishekraut01">
+    <img src="https://img.shields.io/github/followers/Abhishekraut01?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Abhishekraut01?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Abhishekraut01?label=Stars&style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Abhishekraut01">
+    <img src="https://komarev.com/ghpvc/?username=Abhishekraut01&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekraut01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=58A6FF&text_color=c9d1d9" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishekraut01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekraut01&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🏆 GitHub Achievements
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Abhishekraut01&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=Abhishekraut01&column=8&margin-w=15&margin-h=10&no-frame=true&theme=tokyonight&no-bg=true)
 
 </div>
 
-<br clear="both">
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20%">
+  
+  ### 💡 "Building systems that don't just work, but scale and inspire" 
+  
+  [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekraut01)
+</div>
 
 ## 💻 Tech Stack
 
