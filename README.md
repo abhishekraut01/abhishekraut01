@@ -221,10 +221,18 @@
 <!-- Connect Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <div align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60"> Let's Connect!
-<p>
+
+<div align="center">
+  <div align="center">
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="90"> 
+  </div>
+  <div align="center">
+      <strong style="font-size: 24px;">Let's Connect!</strong>
+  </div>
+  <br>
   <em>Open to collaborate on interesting projects and learning opportunities</em>
-</p>
+</div>
+
 <br/>
 <a href="https://www.linkedin.com/in/sweabhishek/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
